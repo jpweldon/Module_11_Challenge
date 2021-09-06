@@ -28,6 +28,8 @@ This project leverages python 3.7 with the following modules:
 
 * [datetime](https://docs.python.org/3/library/datetime.html#datetime.datetime) - For a datetime object containing all the information from a date object and a time object.
 
+* [numpy](https://numpy.org) - For computation.
+
 * [matplotlib](https://matplotlib.org/stable/users/index.html) - For embedding plots in the application.
 
 ---
